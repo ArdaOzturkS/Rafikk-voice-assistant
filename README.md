@@ -56,6 +56,7 @@ Loglar, rafik_log.json dosyasında tutulur.
 
 Apache License 2.0
 
+----------------------------------------------------
 
 English Section
 🚀 About Project
