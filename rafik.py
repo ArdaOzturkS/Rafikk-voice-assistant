@@ -680,6 +680,7 @@ class Rafik:
             json.dump(self.conversation_history, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    GEMINI_API_KEY = "AIzaSyComU1wwDy-Io0e02ajfxHw3whr0NRVxAI"
+    GEMINI_API_KEY = "API-KEY"
     assistant = Rafik(GEMINI_API_KEY)
+
     assistant.run()
